@@ -9,7 +9,7 @@ Colección de scripts en **ExtendScript (JavaScript)** diseñados para automatiz
 | Archivo | Descripción | Caso de uso principal |
 | :--- | :--- | :--- |
 | **`Marcas de corte_Mesa de Trabajo.jsx`** | Genera líneas de corte exteriores en las 4 esquinas de la mesa de trabajo activa o de todas las mesas del documento. | Tarjetas de visita, folletos, cartelería y documentos multipágina. |
-| **`Marcas de corte_Forma_V4_2.jsx`** | Analiza la geometría de la forma seleccionada. Coloca marcas rectas en vértices convexos (salientes) y puntos guía oscurecidos en vértices cóncavos (entradas). | Pegatinas, etiquetas con formas complejas, packaging y troquelados. |
+| **`Marcas de corte_Forma.jsx`** | Analiza la geometría de la forma seleccionada. Coloca marcas rectas en vértices convexos (salientes) y puntos guía oscurecidos en vértices cóncavos (entradas). | Pegatinas, etiquetas con formas complejas, packaging y troquelados. |
 
 ---
 
